@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6DF96837-7F18-4A9F-90C7-BC204BFBAE21}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StockList PreferredExecutionTarget="/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StockList/Program.cs">
+    <Files>
+      <File FileName="StockList/Models/Stock.cs" Line="1" Column="14" />
+      <File FileName="StockList/appsettings.json" Line="5" Column="38" />
+      <File FileName="StockList/Program.cs" Line="2" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StockList" expanded="True">
+            <Node name="StockList" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
